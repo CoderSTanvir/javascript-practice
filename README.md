@@ -5,3 +5,6 @@ My beginner JavaScript projects from freeCodeCamp.
 ## Projects
 - Truncate a String
 - Confirm the Ending
+- Lunch Picker
+- Golf Score Translator
+- Cargo manifest validator

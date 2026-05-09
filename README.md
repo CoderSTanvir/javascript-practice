@@ -9,3 +9,4 @@ My beginner JavaScript projects from freeCodeCamp.
 - Golf Score Translator
 - Cargo manifest validator
 - Quiz game
+- Record collection

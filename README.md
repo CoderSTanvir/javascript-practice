@@ -8,3 +8,4 @@ My beginner JavaScript projects from freeCodeCamp.
 - Lunch Picker
 - Golf Score Translator
 - Cargo manifest validator
+- Quiz game

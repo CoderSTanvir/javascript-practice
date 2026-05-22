@@ -11,3 +11,4 @@ My beginner JavaScript projects from freeCodeCamp.
 - Quiz game
 - Record collection
 - Longest Word Finder
+- Factorial Calculator

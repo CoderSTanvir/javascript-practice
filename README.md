@@ -10,3 +10,4 @@ My beginner JavaScript projects from freeCodeCamp.
 - Cargo manifest validator
 - Quiz game
 - Record collection
+- Longest Word Finder

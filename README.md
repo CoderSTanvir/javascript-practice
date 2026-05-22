@@ -16,3 +16,4 @@ My beginner JavaScript projects from freeCodeCamp.
 * **Profile Lookup** (`lab-profile-lookup.js`)
 * **Quiz Game** (`lab-quiz-game.js`)
 * **Truncate a String** (`truncate-a-string.js`)
+* **String Repeating Function**(`build-a-string-repeating-function.js`)

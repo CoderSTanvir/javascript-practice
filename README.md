@@ -12,3 +12,4 @@ My beginner JavaScript projects from freeCodeCamp.
 - Record collection
 - Longest Word Finder
 - Factorial Calculator
+- mutations algorithm

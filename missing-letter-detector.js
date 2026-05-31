@@ -8,7 +8,7 @@ function fearNotLetter(str){
 
     }
   }
-
+  return undefined
 }
 
 console.log(fearNotLetter("stvwx"))
